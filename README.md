@@ -1,0 +1,1 @@
+# Calculate-chi1-chi2.chi3-and-chi4-for-each-amino-acid-in-protein.
